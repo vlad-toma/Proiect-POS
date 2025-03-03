@@ -1,0 +1,9 @@
+grpcio
+grpcio-tools
+asyncio
+jwt
+datetime
+uuid
+pydantic
+fastapi
+mariadb
